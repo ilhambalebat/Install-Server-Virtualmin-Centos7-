@@ -16,6 +16,7 @@ REMOVE OLD VERSION PHP
 yum remove php* rh-php*
 
 INSTALL PHP 74 ( tambahin php-intl)
+https://www.virtualmin.com/documentation/web/multiplephp
 https://computingforgeeks.com/how-to-install-php-7-4-on-centos-7/
 
 ##Fitur Tambahan##
